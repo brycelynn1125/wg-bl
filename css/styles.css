@@ -1,0 +1,56 @@
+.panel {
+	background-color: #333; 
+}
+
+.panel-body {
+	color: #fff;
+	padding: 25px;
+}
+
+.red-heading {
+	color: #ff0000;
+}
+
+.instruction-block {
+	padding-bottom: 10px;
+}
+
+.panel-heading-dark {
+	  padding: 10px 15px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  background-color: #333;
+}
+
+.panel-title {
+	color:  #fff;
+}
+
+.panel-wg {
+  border-radius: 8px;
+}
+
+.thumbnail-left {
+	padding-left: 10px;
+	background-color: #333;
+	border: none;
+}
+
+.thumbnail-center {
+	padding-left: 7px;
+	padding-right: 7px;
+	background-color: #333;
+	border: none;
+}
+
+
+.thumbnail-right {
+	padding-right: 10px;
+	background-color: #333;
+	border: none;
+}
+
+.photo-row {
+	margin-bottom: 20px;
+}
